@@ -11,6 +11,8 @@ Funkcjonalności aplikacji:
   •	Wskaźnik postępu: Obok listy zadań wyświetlona jest liczba zadań i liczba wykonanych zadań, co pozwala użytkownikowi na łatwe śledzenie postępu.
 
   •	Wsparcie dla języków polskiego i angielskiego: Aplikacja jest dostępna w języku polskim i angielskim. Użytkownik może zmienić język, klikając na odpowiedni skrót danego języka.
+  
+  • Aplikacja ta posiada także opcję monitorowanie postępu zadań wykonanych przez znajomych, każdy znajomy posiada swój własny profil z wykonanymi zadaniami.
 
 Firebase to platforma oferująca usługi back-endowe dla aplikacji mobilnych i webowych. 
 Baza danych w Firebase to NoSQL, co oznacza, że jest ona przechowywana w postaci dokumentów JSON. 
