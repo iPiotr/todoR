@@ -1,0 +1,37 @@
+
+.li {
+    display: flex;
+    justify-content: space-between;
+    background-color: #c6ccd4;
+    padding: 6px;
+    margin: 4px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.liComplete {
+    display: flex;
+    justify-content: space-between;
+    background-color: #b6b7bb;
+    padding: 6px;
+    margin: 4px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.row {
+    display: flex;
+}
+.text {
+    margin-left: 4px;
+    cursor: pointer;
+}
+.textComplete {
+    margin-left: 4px;
+    cursor: pointer;
+    text-decoration-line: line-through;
+    }
+button {
+    display: flex;
+    align-items: center;
+}
