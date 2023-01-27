@@ -1,5 +1,5 @@
 # todoR
-Aplikacja "To-Do List" jest aplikacją webową napisaną w ReactJS, która pozwala na tworzenie i zarządzanie listą zadań. Korzysta ona z bazy danych MongoDB do przechowywania informacji o zadaniach.
+Aplikacja "To-Do List" jest aplikacją webową napisaną w ReactJS, która pozwala na tworzenie i zarządzanie listą zadań. Korzysta ona z bazy danych Firebase do przechowywania informacji o zadaniach.
 Funkcjonalności aplikacji:
 
   •	Dodawanie zadań: Użytkownik może dodać nowe zadanie, wprowadzając jego nazwę w odpowiednim polu i klikając przycisk "+".
